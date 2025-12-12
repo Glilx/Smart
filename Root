@@ -1,0 +1,12 @@
+/ (root)
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   └── .env
+├── frontend/
+│   ├── index.html
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── app.js
+└── .replit
