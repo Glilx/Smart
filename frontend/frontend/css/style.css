@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 15px;
+  background: #fafafa;
+}
+header {
+  text-align: center;
+  padding-bottom: 10px;
+}
+#chatMessages {
+  border: 1px solid #ccc;
+  min-height: 200px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.input-area {
+  display: flex;
+  gap: 10px;
+}
